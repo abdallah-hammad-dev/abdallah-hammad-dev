@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallah-hammad-dev&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About me
